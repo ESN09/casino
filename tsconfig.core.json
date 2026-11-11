@@ -1,0 +1,4 @@
+{
+  "extends": "./tsconfig.json",
+  "include": ["src/core", "src/config", "src/collection", "src/games", "src/server", "tests"]
+}
